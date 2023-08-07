@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+
+header{
+    background-image: url(/photo///image\ .jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.Taskease a{
+    color: #a9a9a9;
+    padding: 0px 20px;
+    border: 1px solid #a9a9a9;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    
+     
+}
